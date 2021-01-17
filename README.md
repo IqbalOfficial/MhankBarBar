@@ -24,7 +24,7 @@ ___
 5. 🗣 Commented on [#175](https://github.com/MhankBarBar/whatsapp-bot/issues/175) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
 <!--END_SECTION:activity-->
 
-### :zap: Stats
+---
 
 <!--START_SECTION:waka-->
 
