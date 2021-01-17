@@ -17,4 +17,9 @@ ___
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#42](https://github.com/MhankBarBar/termux-wabot/pull/42) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+2. 🎉 Merged PR [#41](https://github.com/MhankBarBar/termux-wabot/pull/41) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+3. 🗣 Commented on [#185](https://github.com/MhankBarBar/whatsapp-bot/issues/185) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+4. ❗️ Closed issue [#175](https://github.com/MhankBarBar/whatsapp-bot/issues/175) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+5. 🗣 Commented on [#175](https://github.com/MhankBarBar/whatsapp-bot/issues/175) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
 <!--END_SECTION:activity-->
