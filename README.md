@@ -10,8 +10,8 @@ ___
 ![MhankBarBar github stats](https://github-readme-stats.vercel.app/api?username=mhankbarbar&show_icons=true&theme=buefy&show_owner=true)
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhankbarbar&theme=buefy&hide=css,html)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=whatsapp-bot&theme=buefy)](https://github.com/mhankbarbar/whatsapp-bot)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhankbarbar&theme=buefy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=buefy)](https://github.com/mhankbarbar/termux-wabot)
 ![](https://github-profile-trophy.vercel.app/?username=MhankBarBar&row=2&column=3)
 
 ### :zap: Recent Activity
