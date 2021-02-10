@@ -17,11 +17,11 @@ ___
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#49](https://github.com/MhankBarBar/termux-wabot/pull/49) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-2. ❗️ Closed issue [#338](https://github.com/adiwajshing/Baileys/issues/338) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
-3. 🗣 Commented on [#335](https://github.com/adiwajshing/Baileys/issues/335) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
-4. ❗️ Opened issue [#338](https://github.com/adiwajshing/Baileys/issues/338) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
-5. ❗️ Closed issue [#45](https://github.com/MhankBarBar/termux-wabot/issues/45) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+1. 🎉 Merged PR [#50](https://github.com/MhankBarBar/termux-wabot/pull/50) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+2. ❌ Closed PR [#49](https://github.com/MhankBarBar/termux-wabot/pull/49) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+3. ❗️ Closed issue [#338](https://github.com/adiwajshing/Baileys/issues/338) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+4. 🗣 Commented on [#335](https://github.com/adiwajshing/Baileys/issues/335) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+5. ❗️ Opened issue [#338](https://github.com/adiwajshing/Baileys/issues/338) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
 <!--END_SECTION:activity-->
 
 ---
