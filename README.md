@@ -17,11 +17,11 @@ ___
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#52](https://github.com/MhankBarBar/termux-wabot/pull/52) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-2. 🎉 Merged PR [#50](https://github.com/MhankBarBar/termux-wabot/pull/50) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-3. ❌ Closed PR [#49](https://github.com/MhankBarBar/termux-wabot/pull/49) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-4. ❗️ Closed issue [#338](https://github.com/adiwajshing/Baileys/issues/338) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
-5. 🗣 Commented on [#335](https://github.com/adiwajshing/Baileys/issues/335) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+1. ❌ Closed PR [#53](https://github.com/MhankBarBar/termux-wabot/pull/53) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+2. ❌ Closed PR [#52](https://github.com/MhankBarBar/termux-wabot/pull/52) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+3. 🎉 Merged PR [#50](https://github.com/MhankBarBar/termux-wabot/pull/50) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+4. ❌ Closed PR [#49](https://github.com/MhankBarBar/termux-wabot/pull/49) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+5. ❗️ Closed issue [#338](https://github.com/adiwajshing/Baileys/issues/338) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
 <!--END_SECTION:activity-->
 
 ---
