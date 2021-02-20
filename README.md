@@ -17,11 +17,11 @@ ___
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/MhankBarBar/termux-wabot/pull/54) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-2. ❌ Closed PR [#53](https://github.com/MhankBarBar/termux-wabot/pull/53) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-3. ❌ Closed PR [#52](https://github.com/MhankBarBar/termux-wabot/pull/52) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-4. 🎉 Merged PR [#50](https://github.com/MhankBarBar/termux-wabot/pull/50) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-5. ❌ Closed PR [#49](https://github.com/MhankBarBar/termux-wabot/pull/49) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+1. ❌ Closed PR [#56](https://github.com/MhankBarBar/termux-wabot/pull/56) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+2. 🎉 Merged PR [#54](https://github.com/MhankBarBar/termux-wabot/pull/54) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+3. ❌ Closed PR [#53](https://github.com/MhankBarBar/termux-wabot/pull/53) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+4. ❌ Closed PR [#52](https://github.com/MhankBarBar/termux-wabot/pull/52) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
+5. 🎉 Merged PR [#50](https://github.com/MhankBarBar/termux-wabot/pull/50) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
 <!--END_SECTION:activity-->
 
 ---
